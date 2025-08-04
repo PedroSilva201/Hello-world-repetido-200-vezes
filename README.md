@@ -4,4 +4,4 @@ Este programa foi criado diante da discursão de alguns colegas sobre um dos con
 
 O programa foi baseado em um artigo da Wikipédia que poderá ser visualizado neste link <a href="https://pt.wikipedia.org/wiki/Gambiarra">porém foi usado apenas cinco vezes a repetição do Hello World!</a> na linguagem C, claro que dentro deste artigo há outros exemplos fora até do contexto da computação, contudo já havia testado com 200, e com 20.000 vezes, portanto ao usar o programa baseado na gambiarra acabará dando problemas dependendo do compilador, principalmnete se for enersimas linhas de código.
 
-O certame foi adaptado e refatorado, podendo usar qualquer numero para este exemplo.
+O certame foi adaptado e refatorado, podendo usar qualquer número para este exemplo, o arquivo main.c mostra a forma correta enquanto o arquivo gambiarra.c o programa na versão de "gambiarra".
